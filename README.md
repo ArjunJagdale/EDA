@@ -1,5 +1,6 @@
 # Titanic EDA Project
 Link - https://www.kaggle.com/datasets/vinicius150987/titanic3
+
 This project performs **Exploratory Data Analysis (EDA)** on the Titanic dataset, which contains information about passengers on the Titanic. The goal is to explore the dataset, uncover trends and insights, and visualize relationships between different features. These insights can later be used for predictive modeling.
 
 ## Dataset
